@@ -1,0 +1,21 @@
+{
+    "packages": [
+        {
+            "changelog": "Initial genesis build for sandboxed execution.",
+            "developer": "Zuno Raek",
+            "downloadURL": "https://repo.5ane.org/ipa/b5ane_node_1.0.0.ipa",
+            "iconURL": "https://repo.5ane.org/assets/icon.png",
+            "identifier": "com.b5ane.node",
+            "minOSVersion": "14.0",
+            "name": "B5ANE Node Daemon",
+            "shortDescription": "Sovereign communication and ledger synchronization daemon.",
+            "size": 1428570,
+            "version": "1.0.0"
+        }
+    ],
+    "repository": {
+        "description": "Decentralized execution runtimes and cryptographic utilities for iOS.",
+        "name": "B5ANE Sovereign Lattice",
+        "origin": "com.b5ane.lattice"
+    }
+}
